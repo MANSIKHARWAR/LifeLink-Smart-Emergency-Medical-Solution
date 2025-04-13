@@ -57,3 +57,7 @@ In emergencies, unconscious patients can't communicate vital medical information
    ```bash
    git clone https://github.com/your-username/LifeLink.git
    cd LifeLink
+
+
+## figma link deployed link
+https://www.figma.com/proto/cNUG0xlQC18YJtpGrpJyjh/LifeLink?node-id=0-1&t=GdtHUVEcLZM8hnoy-1
