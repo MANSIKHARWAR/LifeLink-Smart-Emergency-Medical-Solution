@@ -60,4 +60,4 @@ In emergencies, unconscious patients can't communicate vital medical information
 
 
 ## figma link deployed link
-https://www.figma.com/proto/cNUG0xlQC18YJtpGrpJyjh/LifeLink?node-id=0-1&t=GdtHUVEcLZM8hnoy-1
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/cNUG0xlQC18YJtpGrpJyjh/LifeLink?node-id=0-1&embed-host=share" allowfullscreen></iframe>
